@@ -1,0 +1,10 @@
+.Hangman {
+  width: 98%;
+  margin-top: 16px;
+}
+
+.let {
+  padding: auto;
+  justify-content: space-between;
+  margin: -0.5px;
+}
